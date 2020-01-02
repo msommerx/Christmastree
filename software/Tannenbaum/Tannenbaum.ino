@@ -5,7 +5,7 @@
 #define LED_PIN 2   //D4 -> GPIO2
 WS2812FX ws2812fx = WS2812FX(LED_COUNT, LED_PIN, NEO_GRB + NEO_KHZ800);
 
-int day = 0;
+int day = 1;
 int leds = 0;
 int brightness = 50;
 int speed1 = 21000;

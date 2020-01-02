@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-11-30T09:46:07Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Tannenbaum"
+        },
+        "Owner": "Martin Sommer <martin.sommer@hs-rm.de>",
+        "Size": {
+            "X": 88.1005,
+            "Y": 130
+        }
+    }
+}
